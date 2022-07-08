@@ -1,4 +1,6 @@
-In order to run the application, you need :
+Frenn Coding Case Study
+-----------------------
+In order to run the application, do the following :
 1. PHP ver 8.0 >= & composer ver 2.0 >= must be installed on your system.
 2. Run `composer install` to set up the vendor folder.
 3. From the repository's root directory, run `cd /public` .
