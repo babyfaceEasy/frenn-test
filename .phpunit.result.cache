@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Warning":6,"Test\\unit\\Loan\\LoanRepositoryTest::testCanSaveALoan":4,"Test\\unit\\Loan\\LoanRepositoryTest::testPersistCalledWhenCreatingALoan":4},"times":{"Warning":0.012,"Test\\unit\\Loan\\LoanRepositoryTest::testCanSaveALoan":0.039,"Test\\unit\\Loan\\LoanRepositoryTest::testPersistCalledWhenCreatingALoan":0.001}}

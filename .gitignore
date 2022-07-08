@@ -1,0 +1,9 @@
+.vscode/
+vendor/
+packages/
+
+data/loan.json
+question.txt
+holder.txt
+test.php
+test.py
