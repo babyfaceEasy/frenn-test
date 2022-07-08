@@ -2,7 +2,7 @@
 vendor/
 packages/
 
-data/loan.json
+loan.json
 question.txt
 holder.txt
 test.php
